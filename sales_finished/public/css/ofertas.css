@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+.contenedor {
+    padding-top: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 200px;
+}
+
+body {
+    background-color: rgb(226, 158, 134);
+}
+
+h6 {
+    text-align: center;
+}
+ h6 a {
+     text-decoration: none;
+     color: lightyellow;
+ }
+
+h6  a:hover {
+    color: mediumaquamarine;
+
+}
